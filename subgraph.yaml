@@ -146,7 +146,7 @@ dataSources:
     network: sepolia
     source:
       abi: KnockoutLiqPath
-      address: "0x7FBd35095866Fa8B3B010210d39F510dDeE870E5"
+      address: "0x8aeE94DF7e9A50Ca36DA563758BaDe305C0B41D1"
       startBlock: 5342000
     mapping:
       kind: ethereum/events
