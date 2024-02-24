@@ -31,7 +31,7 @@ dataSources:
     network: sepolia
     source:
       abi: HotProxy
-      address: "0x57E2dC5CD3F157A9b281b199F94D7e8d69a8C56a"
+      address: "0x0FfD1249f72415975fb8710b0dF5415E9cff05C0"
       startBlock: 5342000
     mapping:
       kind: ethereum/events
